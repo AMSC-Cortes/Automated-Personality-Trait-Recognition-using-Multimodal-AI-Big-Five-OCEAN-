@@ -1,0 +1,2 @@
+# Automated-Personality-Trait-Recognition-using-Multimodal-AI-Big-Five-OCEAN-
+This project develops a data-driven, automated system to identify Big Five (OCEAN) personality traits using multimodal machine learning. It analyzes visual and audio signals from interviews to overcome bias in traditional questionnaires. Built on the ChaLearn dataset, it supports HR, psychology, education, and mental health applications.
