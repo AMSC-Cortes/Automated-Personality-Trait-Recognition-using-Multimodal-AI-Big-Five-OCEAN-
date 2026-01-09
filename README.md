@@ -40,9 +40,13 @@ The model achieves high precision by identifying "Peak Signals" in video frames 
 Plaintext
 
 ├── personalitybig5.py      # Core script (Data cleaning, Model Architecture, Training)
+
 ├── features_extraction/    # Extracted .npy features (Visual & Audio)
+
 ├── annotations/            # Labels for Train/Val/Test sets
+
 ├── best_personality_model.keras  # Saved trained weights
+
 └── README.md
 ⚠️ Important Note on Data
 The dataset is not included in this repository. This project uses the ChaLearn Looking at People dataset.
