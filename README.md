@@ -75,5 +75,5 @@ Reproducibility: Professional projects share the code and weights. Other researc
 
 Results overview
 
-![Results](ResultsExample1.png)
-![Results](ResultsExample2.png)
+!(ResultsExample1.png)
+!(ResultsExample2.png)
