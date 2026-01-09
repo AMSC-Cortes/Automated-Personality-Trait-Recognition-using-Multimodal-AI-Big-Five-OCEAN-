@@ -1,0 +1,6 @@
+# Ignorar carpetas de datos pesados
+video_data/
+audio_data/
+*.mp4
+*.wav
+*.npy
